@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 
 from cash_register import CashRegister

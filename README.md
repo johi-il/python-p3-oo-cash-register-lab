@@ -23,7 +23,7 @@ interchangeably.
 is an object-oriented programming language.
 - **Function**: a series of steps that create, transform, and move data.
 - **Method**: a function that is defined inside of a class.
-- **Magic Method**: a special type of method in Python that starts and ends
+- **Magic Method**: a special type of methodgit@github.com:johi-il/python-p3-oo-cash-register-lab.git in Python that starts and ends
 with double underscores. These methods are called on objects under certain
 conditions without needing to use their names explicitly. Also called **dunder
 methods** (for **d**ouble **under**score).
